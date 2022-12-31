@@ -1,0 +1,1 @@
+This is a simple webpage from the Odin Project foundations course.
